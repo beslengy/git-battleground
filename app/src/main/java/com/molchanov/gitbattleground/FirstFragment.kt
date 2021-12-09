@@ -43,6 +43,7 @@ class FirstFragment : Fragment() {
     //some changes in another branch
     //some changes in branch 2
     // master commit
+    // master commit
     //dev connit
     //dev connit
     //dev connit 4
