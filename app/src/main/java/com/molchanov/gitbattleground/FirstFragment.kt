@@ -37,19 +37,6 @@ class FirstFragment : Fragment() {
             findNavController().navigate(R.id.action_FirstFragment_to_SecondFragment)
         }
     }
-    //dev changes
-    //dev changes1
-
-    //some changes in another branch
-    //some changes in branch 2
-    // master commit
-    //dev connit
-    //dev connit
-    //dev connit 4
-    //master 1
-    //branch 1
-    //master 2
-    //master 3
 
 
     override fun onDestroyView() {
