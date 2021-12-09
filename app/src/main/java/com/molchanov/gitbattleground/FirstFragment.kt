@@ -36,6 +36,7 @@ class FirstFragment : Fragment() {
             findNavController().navigate(R.id.action_FirstFragment_to_SecondFragment)
         }
     }
+    //dev changes
 
     override fun onDestroyView() {
         super.onDestroyView()
