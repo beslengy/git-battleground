@@ -40,6 +40,7 @@ class FirstFragment : Fragment() {
     //master 1
     //1
     //2
+    //master 2
     override fun onDestroyView() {
         super.onDestroyView()
         _binding = null
