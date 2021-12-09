@@ -38,6 +38,7 @@ class FirstFragment : Fragment() {
     }
     //dev changes
     //some changes in another branch
+    //some changes in branch 2
 
     override fun onDestroyView() {
         super.onDestroyView()
