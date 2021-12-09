@@ -40,6 +40,7 @@ class FirstFragment : Fragment() {
     //dev changes
     //some changes in another branch
     //some changes in branch 2
+    // master commit
 
     override fun onDestroyView() {
         super.onDestroyView()
