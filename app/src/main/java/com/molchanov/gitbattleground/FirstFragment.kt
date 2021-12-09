@@ -31,14 +31,15 @@ class FirstFragment : Fragment() {
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
+        //new change
 
         binding.buttonFirst.setOnClickListener {
             findNavController().navigate(R.id.action_FirstFragment_to_SecondFragment)
         }
     }
     //dev changes
-    //dev changes1
-
+    //some changes in another branch
+    //some changes in branch 2
 
     override fun onDestroyView() {
         super.onDestroyView()
