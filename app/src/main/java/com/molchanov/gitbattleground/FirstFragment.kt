@@ -46,6 +46,7 @@ class FirstFragment : Fragment() {
     // commit b
     //commit c
     //commit d
+    //commit g
 
     override fun onDestroyView() {
         super.onDestroyView()
